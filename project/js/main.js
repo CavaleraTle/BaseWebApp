@@ -3,6 +3,7 @@ function showPicture(){
   // 'rounded-circle' is a bootstrap thing! Check out more here: http://getbootstrap.com/css/
   $("#image").append('<img class="rounded-circle" src="images/high-five.gif"/>');
   $("p").html("High five! You're building your first web app!");
+  $("p").html("High five! Modified js file!");
 
   // jQuery can do a lot of crazy stuff, so make sure to Google around to find out more
   
